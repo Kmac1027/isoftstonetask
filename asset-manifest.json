@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/isoftstonetask/static/css/main.ce177dbb.chunk.css",
+    "main.js": "/isoftstonetask/static/js/main.b81818f7.chunk.js",
+    "main.js.map": "/isoftstonetask/static/js/main.b81818f7.chunk.js.map",
+    "runtime-main.js": "/isoftstonetask/static/js/runtime-main.3fcb791d.js",
+    "runtime-main.js.map": "/isoftstonetask/static/js/runtime-main.3fcb791d.js.map",
+    "static/js/2.13868023.chunk.js": "/isoftstonetask/static/js/2.13868023.chunk.js",
+    "static/js/2.13868023.chunk.js.map": "/isoftstonetask/static/js/2.13868023.chunk.js.map",
+    "static/js/3.06989af5.chunk.js": "/isoftstonetask/static/js/3.06989af5.chunk.js",
+    "static/js/3.06989af5.chunk.js.map": "/isoftstonetask/static/js/3.06989af5.chunk.js.map",
+    "index.html": "/isoftstonetask/index.html",
+    "static/css/main.ce177dbb.chunk.css.map": "/isoftstonetask/static/css/main.ce177dbb.chunk.css.map",
+    "static/js/2.13868023.chunk.js.LICENSE.txt": "/isoftstonetask/static/js/2.13868023.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fcb791d.js",
+    "static/js/2.13868023.chunk.js",
+    "static/css/main.ce177dbb.chunk.css",
+    "static/js/main.b81818f7.chunk.js"
+  ]
+}
